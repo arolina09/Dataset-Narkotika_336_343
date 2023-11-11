@@ -1,6 +1,6 @@
 # Dataset-Narkotika_336_343
 Nama :
-1. Vita Amalia Herlinda (202010370336)
+1. Vita Amalia Herlinda (202010370311336)
 2. Arolina Rinardi (202010370311343)
 
 Memenuhi Tugas Temu Kembali Informasi melakukan screpping pada website Direktori Putusan Mahkamah Agung RI, link sebagai berikut.
